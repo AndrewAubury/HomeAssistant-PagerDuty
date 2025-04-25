@@ -1,0 +1,11 @@
+{
+    "domain": "pagerduty_notify",
+    "name": "PagerDuty Notify",
+    "version": "1.0.0",
+    "documentation": "https://github.com/AndrewAubury/HomeAssistant-PagerDutyw",
+    "requirements": ["aiohttp>=3.9.0", "async_timeout>=4.0.3"],
+    "codeowners": ["@AndrewAubury"],
+    "iot_class": "cloud_push",
+    "integration_type": "helper"
+  }
+  
